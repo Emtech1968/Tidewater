@@ -1,0 +1,4 @@
+default:
+  card: paygate-a
+  wallet: paygate-a
+  bank_transfer: paygate-a
