@@ -2,3 +2,5 @@ default:
   card: paygate-a
   wallet: paygate-a
   bank_transfer: paygate-a
+NOR:
+  card: paygate-b   # moved from PayGate-A, KAN-12
